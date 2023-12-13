@@ -66,6 +66,5 @@ const data = [
 ]
 const contact = new Contact(data);
 contact.renderContactData();
-// contact.sendEmail();
 
 
