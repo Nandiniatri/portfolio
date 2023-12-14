@@ -6,7 +6,7 @@
 
 #header-container{
     /* border: solid; */
-    /* display: flex; */
+    display: flex;
     height: 13vh;
     align-items: center;
     background-color: rgb(238, 235, 235);
