@@ -726,7 +726,13 @@ form{
 
 @media (max-width:500px){
     #header-container{
-        display: flex;
+        width: 50%;
+        background-color: #242323;
+    }
+}
+
+@media (min-width:500px) and (max-width:500px){
+    #home-container{
         width: 50%;
     }
 }
