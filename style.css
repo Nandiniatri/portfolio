@@ -6,6 +6,7 @@
 
 #header-container{
     /* border: solid; */
+    width: 100%;
     display: flex;
     height: 13vh;
     align-items: center;
@@ -723,16 +724,46 @@ form{
     margin-top: 24px;
 }
 
+#menu-icon{
+    display: none;
+}
 
-@media (max-width:500px){
+/* media query */
+@media (max-width:400px){
     #header-container{
-        width: 50%;
-        background-color: #242323;
+        width: 117vh;
+        background-color: rgb(238, 235, 235);
+        border: solid;
+        height: 20%;
+    }
+    .right-side{
+        display: none;
+        position: absolute;
+        top: 50px;
+        right: 0px;
+        left: 0px;
+        cursor: pointer;
+        padding: 5%;
+        height: auto;
+    }
+    .nandu{
+        font-size:2rem;
+    }
+    #menu-icon{
+        display: block;
+        margin-left: 60%;  
+        color: #333;
+    }
+    #menu-icon:hover+.right-side{
+        display: block;
+        border: solid;
+        margin-top: 30px;
+        width: 30vh;
+        font-size: 20px;
+        color: #000;
+        
     }
 }
 
-@media (min-width:500px) and (max-width:500px){
-    #home-container{
-        width: 50%;
-    }
-}
+
+

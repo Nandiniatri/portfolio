@@ -11,7 +11,7 @@ renderHomeData(){
         <div class="deve"><h5>${items.developer}</h5></div>
         <div class="line">${items.softwareline}</div>
         <button class="hire-btn">Hire Me</button>
-        <button class="get-btn"><a class="home-A" target="_blank" download href="https://drive.google.com/file/d/10HniB2BIqVBfCqSXAY0BsPOwCNyQDXvU/view?usp=drive_link" download >download cv</a></button>
+        <button class="get-btn"><a class="home-A" target="_blank" download href="https://drive.google.com/file/d/1G5QXVOIfR1NOVgZprCrye-WvLs87dani/view?usp=drive_link" download >download cv</a></button>
         <div class="img-container">
         <img class="img1" src="${items.img}">
         </div>

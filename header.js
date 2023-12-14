@@ -9,6 +9,7 @@ renderHeader(){
         <div class="nandu">
         <p>${item.nandini}</p>
         </div>
+        <a href="#" id="menu-icon"><i style="font-size:35px" class="fa">&#xf0c9;</i></a>
         <div class="right-side">
         <a class="header-A" href="#home-container">${item.home}</a>
         <a class="header-A" href="#about-main-container">${item.about}</a>
