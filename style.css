@@ -723,3 +723,10 @@ form{
     margin-left: 43%;
     margin-top: 24px;
 }
+
+
+@media (max-width:500px){
+    #header-container{
+        display: block;
+    }
+}
