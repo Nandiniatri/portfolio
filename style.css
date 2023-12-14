@@ -6,10 +6,9 @@
 
 #header-container{
     /* border: solid; */
-    display: flex;
+    /* display: flex; */
     height: 13vh;
     align-items: center;
-    /* background-color: rgb(216, 212, 212); */
     background-color: rgb(238, 235, 235);
     width: 100%;
     color: #333;
