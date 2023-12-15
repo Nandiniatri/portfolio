@@ -12,9 +12,11 @@ renderHomeData(){
         <div class="line">${items.softwareline}</div>
         <button class="hire-btn">Hire Me</button>
         <button class="get-btn"><a class="home-A" target="_blank" download href="https://drive.google.com/file/d/1G5QXVOIfR1NOVgZprCrye-WvLs87dani/view?usp=drive_link" download >download cv</a></button>
+
         <div class="img-container">
         <img class="img1" src="${items.img}">
         </div>
+        
         </div>`
     })
     const create = document.createElement('div');

@@ -3,7 +3,7 @@ export class Footer{
         this.data = data;
     }
 
-renderfooterData(){
+renderfooterData(){ 
     const footerTpl = this.data.map((h) =>{
         return`<div id="footer-main-div">
 

@@ -19,7 +19,7 @@ renderProjectData(){
 
         <button class="proj-btn2"><a class="project-A"  target="_blank" href="https://pinterest-clone-nandini.netlify.app/">Live <i class="fa fa-external-link" style="font-size:18px"></i></a></button>
         </div>
-        </div>
+        </div> 
 
         <div class="project-div2">
         <img class="proj-img1" src="${itmm.img2}"/>
