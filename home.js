@@ -32,7 +32,7 @@ const data = [
         developer:'front-end developer',
         img:'https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg',
         softwareline:'A Front-End Developer is someone who creates websites and web applications.',
-        img:'https://img.pikbest.com/origin/09/20/30/89epIkbEsTmIb.png!w700wp'
+        img:'https://cdn5.vectorstock.com/i/1000x1000/69/39/girl-sits-at-a-table-in-front-laptop-vector-31376939.jpg'
 
     }
 ]

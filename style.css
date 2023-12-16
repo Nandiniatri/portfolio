@@ -10,9 +10,11 @@
     display: flex;
     height: 13vh;
     align-items: center;
-    background-color: rgb(238, 235, 235);
+    /* background-color: rgb(238, 235, 235); */
+    background-color: rgb(245, 225, 229);
     width: 100%;
-    color: #333;
+    /* color: #333; */
+    color: black;
     letter-spacing: 1px;
 }
 .nandu{
@@ -37,10 +39,14 @@
     text-decoration: none;
 }
 .header-A{
-    color: #333;
+    /* color: #333; */
     text-decoration: none;
+    color: black;
 }
-
+.header-A:hover{
+    color: #612cd2;
+    text-decoration:underline;
+}
 
 /* home-section */
 
@@ -48,13 +54,15 @@
     text-transform: uppercase;
     /* border: solid 1px; */
     width: 100%;
-    height: 100vh;
-    /* background-color: #929090; */
+    /* height: 100vh; */
+    /* margin-left: 2%; */
 }
 .hello{
     font-size: 35px;
     margin-top: 20vh;
-    /* margin-left: 16vh; */
+    margin-left: 16vh;
+    /* border: solid; */
+    width: 15%;
 }
 .home-h1{
     font-size: 4rem;
@@ -62,19 +70,19 @@
 .name{
     font-size: 58px;
     margin-top: 15px;
-    /* margin-left: 16vh; */
+    margin-left: 16vh;
 }
 .deve{
     font-size: 30px;
     margin-top: 13px;
-    /* margin-left: 16vh; */
+    margin-left: 16vh;
 }
 .line{
     text-transform:none;
     width: 40%;
-    font-size: 19px;
+    font-size: 18px;
     margin-top: 2%;
-    /* margin-left: 16vh; */
+    margin-left: 16vh;
 }
 .hire-btn{
     width: 10%;
@@ -88,7 +96,7 @@
     text-transform: uppercase;
     font-weight: bold;
     border: none;
-    /* margin-left: 16vh; */
+    margin-left: 16vh;
 }
 .hire-btn:hover{
     color: black;
@@ -115,13 +123,15 @@
 }
 .img-container{
     /* border: solid; */
-    margin-left: 55%;
+    width: 35%;
+    margin-left: 60%;
     text-align: center;
     margin-top: -365px;
 }
 .img1{
-    width: 60vh;
-    height: 60vh;
+    /* border: solid; */
+    width: 65vh;
+    height: 65vh;
     border-radius: 50%;
 }
 .home-A{
@@ -132,18 +142,16 @@
 /* about-section */
 #about-main-container{
     /* border: solid 1px; */
+    margin-top: 10%;
     width: 100%;
-    height: 90vh;
-    margin-top: -119px;
+    height: 80vh; 
 }
 .about-h1{
     /* border: solid; */
     text-transform: uppercase;
     width: 40%;
     margin-left: 50%;
-    /* margin-top: 10%; */
     letter-spacing: 1px;
-    /* font-size: 12px; */
     font-weight: 700;
     font-size: 2.7rem;
 }
@@ -158,9 +166,10 @@
     margin-left: 50%;
 }
 .about-img{
+    /* border: solid; */
     width: 30%;
     height: 80vh;
-    margin-top: -450px;
+    margin-top: -400px;
     margin-left: 80px; 
 }
 
@@ -177,7 +186,7 @@
     border: none;
     left: 50%;
     position: relative;
-    top: -45px;
+    top: -75px;
     cursor: pointer;
 }
 .p2{
@@ -201,8 +210,8 @@
 #skills-container{
     /* border: solid 1px; */
     width: 100%;
-    margin-top: 100px;
-    height: 90vh;
+    margin-top: 130px;
+    height: 70vh;
 }
 .skill-h2{
     /* border: solid; */
@@ -217,7 +226,7 @@
 .skill-img{
     /* border: solid; */
     height: 30vh;
-    margin-top: 130px;
+    margin-top: 80px;
     width: 50%;
     margin-left: 90vh;
 }
@@ -230,8 +239,6 @@
 .css-div{
     /* border: solid; */
     width: 95%;
-    /* height: 36vh; */
-    /* height: 13vh; */
 }
 .js-div{
     /* border: solid; */
@@ -244,49 +251,53 @@
 
 .skill-html{ 
     /* border: solid red; */
-    width: 18%;
+    width: 16%;
     position: relative;
     left: 5%;
     /* height: 43vh; */
     text-align: center;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
+    border-radius: 6%;
 }
 .skill-html:hover{
     box-shadow: 0px 30px 40px rgba(117, 77, 249, 0.3);
 }
 
-.skill-css{
-    /* border: solid red; */
-    width: 17%;
+ .skill-css{
+    /* border: solid red;  */
+    width: 15%;
     position: relative;
     left: 29%;
     text-align: center;
-    bottom: 23.30vh;
+    bottom: 21.67vh;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
+    border-radius: 6%;
 }
 .skill-css:hover{
     box-shadow: 0px 30px 40px rgba(117, 77, 249, 0.3);
 }
 .skill-js{
-    /* border: solid; */
-    width: 18%;
+    /* border: solid red; */
+    width: 16%;
     position: relative;
     left: 53%;
-    bottom: 46.80vh;
+    bottom: 43vh;
     text-align: center;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
+    border-radius: 6%;
 }
 .skill-js:hover{
     box-shadow: 0px 30px 40px rgba(117, 77, 249, 0.3);
 }
 .skill-github{
-    /* border: solid; */
-    width: 18%;
+    /* border: solid red; */
+    width: 16%;
     position: relative;
     left: 77%;
-    bottom: 69.70vh;
+    bottom: 64vh;
     text-align: center;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
+    border-radius: 6%;
 }
 .skill-github:hover{
     box-shadow: 0px 30px 40px rgba(117, 77, 249, 0.3);
@@ -345,9 +356,10 @@
     width: 100%;
     position: relative;
     bottom: 70px;
+    margin-top: 100px;
 }
 .project-div1{
-    /* border: solid 1px; */
+    border: solid 1px #7843e9;
     width: 23%;
     height: 60vh;
     margin-top: 15vh;
@@ -357,7 +369,7 @@
     border-radius: 5%;
 }
 .project-div2{
-    /* border: solid 1px; */
+    border: solid 1px #7843e9;
     width: 23%;
     height: 60vh;
     left: 60%;
@@ -373,6 +385,7 @@
     width: 100%;
     height: 27vh;
     border-radius: 5%;
+
 }
 .proj-img1{
     /* border: solid; */
@@ -518,7 +531,7 @@
 /* contact-section */
 #contact-main-container{  
     /* border: solid; */
-    margin-top: 30px;
+    /* margin-top: 20px; */
     width: 100%;
     height: 120vh;
     text-align: center;
@@ -638,7 +651,7 @@ form{
 /* footer-section */
 #footer-main-div{
     /* border: solid red; */
-    margin-top: 40vh;
+    margin-top: 50vh;
     width: 100%;
     height: 55vh;
     background-color: #000;

@@ -12,8 +12,6 @@ renderAboutSection(){
         🎨 HTML5 <br>
         🖌️ CSS3 <br>
         🌐 JavaScript <br>
-        ⚛️ React <br>
-        🔄 Redux <br>
         🌐 AJAX <br>
         📋 JSON <br>
         🔌 APIs <br><br>
@@ -33,7 +31,7 @@ renderAboutSection(){
 const data=[
     {
         about:'LET’S <br>INTRODUCE ABOUT<br> MYSELF',
-        img:'https://storage.googleapis.com/pai-images/6285bfc34d624a01a67c4de4a7df389f.jpeg',
+        img:'https://img.freepik.com/premium-vector/girl-with-laptop_373887-1702.jpg?w=360',
         btn:'contact'
     }
 ]
