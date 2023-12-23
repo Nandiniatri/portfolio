@@ -984,7 +984,7 @@ form{
 }
 
 .html-div{
-    border: solid;
+    /* border: solid; */
     width: 100%;
 }
 .css-div{
@@ -1001,7 +1001,7 @@ form{
 }
 
 .skill-html{ 
-    border: solid red;
+    /* border: solid red; */
     width: 30%;
     position: relative;
     left: -360%;
@@ -1017,8 +1017,8 @@ form{
     /* border: solid red; */
     width: 28%;
     position: relative;
-    left: -267%;
-    top: -12px;
+    left: -290%;
+    top: -10px;
     text-align: center;
     bottom: 23.30vh;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
