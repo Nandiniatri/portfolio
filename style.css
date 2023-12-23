@@ -966,11 +966,11 @@ form{
     height: 90vh;
 }
 .skill-h2{
-    /* border: solid; */
+    border: solid;
     width: 35%;
     font-size: 2rem;
     margin-left: 35%;
-    margin-top: 8vh;
+    margin-top: -22vh;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;

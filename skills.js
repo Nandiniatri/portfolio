@@ -3,7 +3,7 @@ export class Skills{
         this.data = data; 
     }
 
-renderSkillsData(){
+renderSkillsData(){ 
     const skillsTpl = this.data.map((itms) =>{
         return `<div id="skills-container">
         <div class="skill-div"><h2 class="skill-h2">${itms.skill}</h2>
