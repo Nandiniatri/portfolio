@@ -915,16 +915,13 @@ form{
     font-size: 14px;
     /* margin-left: 50%; */
     position: relative;
-    right: 25vh;
+    right: 18vh;
 }
+
 .about-img{
-    border: solid;
+    /* border: solid; */
     width: 80%;
     height: 30vh;
-    /* margin-top: -450px;
-    margin-left: 80px;  */
-    /* margin-left: 10px; */
-    /* border: solid; */
     position: relative;
     bottom: 16vh;
     right: 40px;
