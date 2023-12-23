@@ -774,8 +774,8 @@ form{
     .img-container{
         /* border: solid; */
         text-align: center;
-        top: 12vh;
-        left:-190px;
+        top: 7vh;
+        left:-183px;
         position: relative;
         width: 75%;
     }
@@ -794,7 +794,7 @@ form{
         font-size: 15px;
     }
     .hello{
-        font-size: 15px;
+        font-size: 19px;
         position: relative;
         bottom: 181px;
         width: 40%;
@@ -814,19 +814,21 @@ form{
     }
     .deve{
         font-size: 20px;
-        top: 130px;
+        top: 24px;
         /* border: solid red; */
-        width: 100%;
+        /* width: 100%; */
         position: relative;
-        text-align: center;
+        /* text-align: center; */
+        left:-47px;
     }
     .line{
         width: 100%;
         /* border: solid pink; */
         position: relative;
-        top: 210px;
+        top: 96px;
         font-size: 14px;
         text-align: center;
+        left: -122px;
     }
     .hire-btn{
         width: 22%;
