@@ -6,12 +6,13 @@ export class Skills{
 renderSkillsData(){ 
     const skillsTpl = this.data.map((itms) =>{
         return `<div id="skills-container">
-        <div class="skill-div"><h2 class="skill-h2">${itms.skill}</h2>
+        
+        <div class="skill-div">
+        <h2 class="skill-h2">${itms.skill}</h2>
         <div class="two"></div>
         </div>
 
         <div class="skill-img">
-
         <div class="skill-html">
         <img class="html-div" src="${itms.html}"/>
         <p class="skill-para">HTML</p>

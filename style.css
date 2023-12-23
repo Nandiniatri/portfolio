@@ -966,7 +966,7 @@ form{
     height: 90vh;
 }
 .skill-h2{
-    /* border: solid; */
+    border: solid;
     width: 35%;
     font-size: 2rem;
     margin-left: 33%;
@@ -976,15 +976,15 @@ form{
     font-weight: 700;
 }
 .skill-img{
-    /* border: solid; */
+    /* border: solid red;
     height: 30vh;
     margin-top: 130px;
     width: 50%;
-    margin-left: 90vh;
+    margin-left: 90vh; */
 }
 
 .html-div{
-    /* border: solid; */
+    border: solid;
     width: 100%;
 }
 .css-div{
@@ -1072,7 +1072,7 @@ form{
     /* border: solid pink; */
     width: 35vh;
     color: #612cd2;
-    left: -5vh;
+    left: -19vh;
     font-size: 20px;
     bottom: 116px;
     position: relative;
