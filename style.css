@@ -919,11 +919,11 @@ form{
 }
 
 .about-img{
-    /* border: solid; */
+    border: solid;
     width: 80%;
     height: 35vh;
     position: relative;
-    bottom: 14vh;
+    bottom: 10vh;
     right: 40px;
 }
 
