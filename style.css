@@ -774,7 +774,7 @@ form{
     .img-container{
         /* border: solid; */
         text-align: center;
-        top: 25vh;
+        top: 16vh;
         left:-190px;
         position: relative;
         width: 75%;
@@ -783,7 +783,7 @@ form{
         display: block;
         /* border: solid red; */
         width: 100%;
-        height: 50vh;
+        height: 45vh;
     }
     #home-container{
         text-transform: uppercase;
