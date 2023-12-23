@@ -796,7 +796,7 @@ form{
     .hello{
         font-size: 19px;
         position: relative;
-        bottom: 260px;
+        bottom: 272px;
         width: 40%;
         left: 19px;
         /* border: solid; */
@@ -842,7 +842,7 @@ form{
         font-weight: bold;
         border: none;
         position: relative;
-        top: 35%;
+        top: 26%;
         left: -10%;
     }
     .hire-btn:hover{
@@ -862,7 +862,7 @@ form{
         border: none;
         background-color: rgb(232, 227, 227);
         position: relative;
-        top: 43%;
+        top: 35%;
         left: 46%;
         /* border: solid; */
     }
