@@ -1079,12 +1079,12 @@ form{
 }
 
 .skill-p{
-    border: solid;
+    /* border: solid; */
     bottom: 93px;
     font-size: 12px;
     width: 40vh;
     position: relative;
-    left: 8vh;
+    left: 3vh;
 }
 .one{
     border: solid #7843e9;
