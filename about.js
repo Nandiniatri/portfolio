@@ -6,7 +6,10 @@ export class About{
 renderAboutSection(){ 
     const aboutTpl = this.data.map((itm) =>{
         return `<div id="about-main-container">
-        <div class="abut"><h1 class="about-h1">${itm.about}</h1></div> 
+
+        <div class="abut">
+        <h1 class="about-h1">${itm.about}</h1>
+        </div> 
         <div class="about-para">
         <p class="p1">Hey, I'm Nandini Atri, a highly skilled web developer with expertise in:<br><br>
         🎨 HTML5 <br>
@@ -19,8 +22,13 @@ renderAboutSection(){
         I'm on the lookout for exciting web development roles and eager to discuss how I can supercharge your team.
         </p>
         </div>
-        <div><img class="about-img" src="${itm.img}"></div>
+
+        <div>
+        <img class="about-img" src="${itm.img}">
+        </div>
+
         <button id="about-btn-id" class="about-btn1"><a href="#contact-main-container" class="abt-A"</a>${itm.btn}</button>
+        
         </div>`
     })
     const create = document.createElement('div');

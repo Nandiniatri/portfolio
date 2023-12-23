@@ -892,17 +892,13 @@ form{
     /* border: solid red; */
     text-transform: uppercase;
     width: 70%;
-    /* left: 10%; */
-    /* margin-top: 10%; */
     letter-spacing: 1px;
-    /* font-size: 12px; */
-    /* font-weight: 700; */
     font-size: 2rem;
     position: relative;
     height: 20%;
     text-align: center;
     right: 35%;
-    top: 30px;
+    top: -77px;
 }
 .abut{
     /* margin-top: 30px; */
