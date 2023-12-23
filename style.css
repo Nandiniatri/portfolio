@@ -966,7 +966,7 @@ form{
     height: 90vh;
 }
 .skill-h2{
-    border: solid;
+    /* border: solid; */
     width: 35%;
     font-size: 2rem;
     margin-left: 33%;
@@ -1072,9 +1072,9 @@ form{
     /* border: solid pink; */
     width: 35vh;
     color: #612cd2;
-    left: -19vh;
+    left: -18vh;
     font-size: 20px;
-    bottom: 116px;
+    bottom: 97px;
     position: relative;
 }
 
