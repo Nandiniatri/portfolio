@@ -1074,17 +1074,17 @@ form{
     color: #612cd2;
     left: -18vh;
     font-size: 20px;
-    bottom: 97px;
+    bottom: 87px;
     position: relative;
 }
 
 .skill-p{
-    /* border: solid; */
+    border: solid;
     bottom: 100px;
     font-size: 15px;
     width: 50vh;
     position: relative;
-    left: 10vh;
+    /* left: 10vh; */
 }
 .one{
     border: solid #7843e9;
