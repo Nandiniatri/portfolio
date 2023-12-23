@@ -796,13 +796,13 @@ form{
     .hello{
         font-size: 15px;
         position: relative;
-        bottom: 165px;
+        bottom: 181px;
         width: 40%;
-        left: -56px;
+        left: 27px;
         /* border: solid; */
     }
     .home-h1{
-        font-size: 1.37rem;
+        font-size: 1.70rem;
         /* border: solid ; */
     }
     .name{
