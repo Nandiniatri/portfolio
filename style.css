@@ -774,7 +774,7 @@ form{
     .img-container{
         /* border: solid; */
         text-align: center;
-        top: 3vh;
+        top: 1vh;
         left:-183px;
         position: relative;
         width: 75%;
@@ -796,9 +796,9 @@ form{
     .hello{
         font-size: 19px;
         position: relative;
-        bottom: 210px;
+        bottom: 236px;
         width: 40%;
-        left: 27px;
+        left: 19px;
         /* border: solid; */
     }
     .home-h1{
@@ -814,7 +814,7 @@ form{
     }
     .deve{
         font-size: 20px;
-        top: 60px;
+        top: -16px;
         /* border: solid red; */
         /* width: 100%; */
         position: relative;
@@ -825,7 +825,7 @@ form{
         width: 100%;
         /* border: solid pink; */
         position: relative;
-        top: 140px;
+        top: 67px;
         font-size: 14px;
         text-align: center;
         left: -122px;
