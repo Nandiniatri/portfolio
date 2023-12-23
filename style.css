@@ -1082,9 +1082,9 @@ form{
     border: solid;
     bottom: 93px;
     font-size: 12px;
-    width: 45vh;
+    width: 40vh;
     position: relative;
-    /* left: 10vh; */
+    left: 8vh;
 }
 .one{
     border: solid #7843e9;
