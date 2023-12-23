@@ -195,9 +195,7 @@
 .p3{
     margin-top: 15px;
 }
-.about-a{
-    /* color: #533098; */
-}
+
 .about-AA{
     color: white;
 }
@@ -657,9 +655,7 @@ form{
     background-color: #000;
     /* color: white; */
 }
-.first-div-foot{
-    /* border: solid blue; */
-}
+
 .footer-h2{
     color: #FFFFFF;
     /* border: solid white; */
@@ -675,10 +671,6 @@ form{
     position: relative;
     top: 16vh;
 }
-/* .foot-span{
-    color: #FFFFFF;
-    border: solid;
-} */
 
 #a-foot{
     color: white;
@@ -749,7 +741,7 @@ form{
     #header-container{
         width: 100%;
         background-color: rgb(234, 229, 229);
-        height: 14vh;
+        height: 10vh;
         margin-top: 2px;
     }
     .right-side{
@@ -763,13 +755,14 @@ form{
         height: auto;
     }
     .nandu{
-        font-size: 25px;
+        font-size: 20px;
         color: black;
+        /* border: solid; */
     }
     #menu-icon{
         display: block;
-        margin-left: 50%;  
-        color:black;
+        margin-left: 40%;
+        color: black;
     }
     #menu-icon:hover + .right-side{
         display: block;
@@ -882,10 +875,7 @@ form{
         color: #333;
         text-decoration: none;
     }
-    /* #about-main-container{
-        border: solid;
-        margin-top: 70px;
-    } */
+
 
 
     /* about-section */
@@ -962,9 +952,7 @@ form{
 .p3{
     margin-top: 15px;
 }
-.about-a{
-    /* color: #533098; */
-}
+
 .about-AA{
     color: white;
 }
