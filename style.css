@@ -832,8 +832,7 @@ form{
     }
     .hire-btn{
         width: 22%;
-        height: 7vh;
-        /* margin-top: 4%; */
+        height: 6vh;
         background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee);
         box-shadow: 0px 10px 30px rgba(118, 85, 225, 0.3);
         border-radius: 5px;
@@ -853,7 +852,7 @@ form{
     
     .get-btn{
         width: 22%;
-        height: 7vh;
+        height: 6vh;
         box-shadow: 0px 10px 30px rgba(118, 85, 225, 0.3);
         border-radius: 5px;
         font-family: "Rubik", sans-serif;
@@ -864,7 +863,7 @@ form{
         background-color: rgb(232, 227, 227);
         position: relative;
         top: 45%;
-        left: 41%;
+        left: 46%;
         /* border: solid; */
     }
     .get-btn:hover{
