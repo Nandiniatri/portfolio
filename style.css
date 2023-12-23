@@ -1001,10 +1001,10 @@ form{
 }
 
 .skill-html{ 
-    /* border: solid red; */
+    border: solid red;
     width: 30%;
     position: relative;
-    left: -231%;
+    left: -276%;
     text-align: center;
     top: 76px;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
