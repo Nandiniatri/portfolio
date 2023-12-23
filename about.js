@@ -3,7 +3,7 @@ export class About{
         this.data = data;
     }
  
-renderAboutSection(){
+renderAboutSection(){ 
     const aboutTpl = this.data.map((itm) =>{
         return `<div id="about-main-container">
         <div class="abut"><h1 class="about-h1">${itm.about}</h1></div> 
