@@ -794,22 +794,22 @@ form{
         font-size: 15px;
     }
     .hello{
-        font-size: 25px;
+        font-size: 15px;
         position: relative;
-        bottom: 144px;
+        bottom: 165px;
         width: 40%;
-        left: 35%;
-
+        left: -56px;
+        /* border: solid; */
     }
     .home-h1{
-        font-size: 2.1rem;
+        font-size: 1.37rem;
         /* border: solid ; */
     }
     .name{
         /* border: solid lawngreen; */
         width: 70%;
         position: relative;
-        left: -88px;
+        left: -56px;
         top: -68px;
     }
     .deve{
