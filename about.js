@@ -10,6 +10,7 @@ renderAboutSection(){
         <div class="abut">
         <h1 class="about-h1">${itm.about}</h1>
         </div> 
+
         <div class="about-para">
         <p class="p1">Hey, I'm Nandini Atri, a highly skilled web developer with expertise in:<br><br>
         🎨 HTML5 <br>
@@ -28,7 +29,7 @@ renderAboutSection(){
         </div>
 
         <button id="about-btn-id" class="about-btn1"><a href="#contact-main-container" class="abt-A"</a>${itm.btn}</button>
-        
+
         </div>`
     })
     const create = document.createElement('div');

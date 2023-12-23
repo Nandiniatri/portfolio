@@ -907,6 +907,7 @@ form{
     /* top: 20vh; */
     /* text-align: center; */
 }
+
 .about-para{
     /* border: solid blue; */
     top: 203px;
@@ -917,6 +918,7 @@ form{
     right: 25vh;
 }
 .about-img{
+    border: solid;
     width: 80%;
     height: 30vh;
     /* margin-top: -450px;
@@ -924,7 +926,7 @@ form{
     /* margin-left: 10px; */
     /* border: solid; */
     position: relative;
-    bottom: 19vh;
+    bottom: 16vh;
     right: 40px;
 }
 
