@@ -843,8 +843,8 @@ form{
         font-weight: bold;
         border: none;
         position: relative;
-        top: 60%;
-        left: 25%;
+        top: 35%;
+        left: -10%;
     }
     .hire-btn:hover{
         color: black;
@@ -863,8 +863,8 @@ form{
         border: none;
         background-color: rgb(232, 227, 227);
         position: relative;
-        top: 70%;
-        left: 45%;
+        top: 45%;
+        left: 41%;
         /* border: solid; */
     }
     .get-btn:hover{
