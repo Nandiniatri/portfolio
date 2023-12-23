@@ -919,7 +919,7 @@ form{
 }
 
 .about-img{
-    border: solid;
+    /* border: solid; */
     width: 80%;
     height: 35vh;
     position: relative;
