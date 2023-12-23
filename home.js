@@ -6,10 +6,20 @@ export class Home{
 renderHomeData(){
     const html = this.data.map((items) =>{
         return `<div id="home-container">
-        <div class="hello"><h3>${items.hello}</h3></div>
-        <div class="name"><h1 class="home-h1">${items.name}</h1></div>
-        <div class="deve"><h5>${items.developer}</h5></div>
+        <div class="hello">
+        <h3>${items.hello}</h3>
+        </div>
+
+        <div class="name">
+        <h1 class="home-h1">${items.name}</h1>
+        </div>
+
+        <div class="deve">
+        <h5>${items.developer}</h5>
+        </div>
+
         <div class="line">${items.softwareline}</div>
+        
         <button class="hire-btn">Hire Me</button>
         <button class="get-btn"><a class="home-A" target="_blank" download href="https://drive.google.com/file/d/1G5QXVOIfR1NOVgZprCrye-WvLs87dani/view?usp=drive_link" download >download cv</a></button>
 
