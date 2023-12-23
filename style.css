@@ -814,7 +814,7 @@ form{
     }
     .deve{
         font-size: 20px;
-        top: 24px;
+        top: 60px;
         /* border: solid red; */
         /* width: 100%; */
         position: relative;
@@ -825,7 +825,7 @@ form{
         width: 100%;
         /* border: solid pink; */
         position: relative;
-        top: 96px;
+        top: 140px;
         font-size: 14px;
         text-align: center;
         left: -122px;
