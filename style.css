@@ -1118,7 +1118,7 @@ form{
 .project-div1{
     /* border: solid red; */
     width: 43%;
-    height: 52vh;
+    height: 50vh;
     margin-top: 15vh;
     margin-left: 3vh;
     /* box-shadow: 0px 10px 30px 20px rgba(157, 135, 233, 0.3); */
@@ -1128,10 +1128,10 @@ form{
 .project-div2{
     /* border: solid green; */
     width: 43%;
-    height: 52vh;
+    height: 50vh;
     left: 53%;
     position: relative;
-    bottom: 52vh;
+    bottom: 50vh;
     /* box-shadow: 0px 10px 30px 20px rgba(157, 135, 233, 0.3); */
     box-shadow: 0px 10px 20px rgb(244, 234, 234);
     border-radius: 5%;
