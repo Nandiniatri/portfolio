@@ -29,7 +29,7 @@ renderContactData(){
         </div>
         </form>
       
-        </div>`
+        </div>` 
     });
     const create = document.createElement('div');
     app.append(create);
