@@ -1031,8 +1031,9 @@ form{
     top: -99px;
     width: 30%;
     position: relative;
-    left: -270%;
-    bottom: 46.80vh;
+    left: -266%;
+    /* bottom: 50vh; */
+    top: -15vh;
     text-align: center;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
 }
