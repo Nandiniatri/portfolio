@@ -1033,7 +1033,7 @@ form{
     position: relative;
     left: -266%;
     /* bottom: 50vh; */
-    top: -12vh;
+    top: -11vh;
     text-align: center;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
 }
@@ -1045,8 +1045,9 @@ form{
     width: 30%;
     top: -187px;
     position: relative;
-    left: -90%;
-    bottom: 69.70vh;
+    left: -217%;
+    top: -26vh;
+    /* bottom: 69.70vh; */
     text-align: center;
     box-shadow: 0px 10px 30px rgba(157, 135, 233, 0.3);
 }
