@@ -236,7 +236,7 @@
 }
 .css-div{
     /* border: solid; */
-    width: 95%;
+    width: 100%;
 }
 .js-div{
     /* border: solid; */
@@ -263,7 +263,7 @@
 
  .skill-css{
     /* border: solid red;  */
-    width: 15%;
+    width: 16%;
     position: relative;
     left: 29%;
     text-align: center;
